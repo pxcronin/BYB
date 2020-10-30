@@ -34,3 +34,9 @@ p {
   font-size: 16px;
   color: white;
 }
+
+.container {
+  display: flex;
+  justify-items: center;
+  align-content: center;
+}
